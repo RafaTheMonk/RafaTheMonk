@@ -176,7 +176,7 @@ Developed AI-powered legal assistant for justice access and conflict desjudicial
 <hr />
 
 <!--GitHub Stats-->
-<h1 align="center">
+<h1 align="left">
   📊 𝗚𝗶𝘁𝗛𝘂𝗯 𝗦𝘁𝗮𝘁𝘀
 </h1>
 
