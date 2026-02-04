@@ -34,7 +34,7 @@
   Experience
 </h1>
 
-<div align="center">
+<div align="left">
 
 <h3>🏆 Justina AI – AI-Powered Legal Assistant (Oct 2024 – Present)</h3>
 
