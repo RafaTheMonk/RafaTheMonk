@@ -1,8 +1,8 @@
 <!-- HEADER -->
-<img src="https://imgur.com/a/D492vCG" />
+<img src="https://imgur.com/a/fi0EggP" />
 
 <div>
-  <img align="right" width="35%" src="https://imgur.com/a/D492vCG">
+  <img align="right" width="35%" src="https://imgur.com/a/fi0EggP">
 </div>
 
 <!--Header Name-->
