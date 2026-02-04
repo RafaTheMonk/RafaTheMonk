@@ -13,7 +13,7 @@
 
 - ✨ Student of Software Engineering at UCSAL
 - 💼 Currently working with Node.js, React, AI integration, and full-stack development
-- 🏆 3rd Place Winner - Hackathon+ Tribunal de Justiça da Bahia
+- 🏆 Winner - Hackathon+ Tribunal de Justiça da Bahia
 - 🎓 Tech Enthusiast, Learning in Public, and Contributing to Real-World Projects
 - 💻 Contributing to Open Source and Building Impactful Solutions
 - 🌐 Making code clean, scalable, and meaningful!
