@@ -25,7 +25,6 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,spring,nodejs,react,express,postgresql,mongodb,mysql&size=72&perline=4" />
   <br/>
-  <img src="https://skillicons.dev/icons?i=git,docker,html,css,javascript,python,aws,vscode&size=72&perline=4" />
 </p>
 
 <!--Start Experiences-->
