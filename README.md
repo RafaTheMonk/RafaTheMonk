@@ -85,19 +85,19 @@
 
 <div align="left">
 
-<h1 align="center">🎯 FiadoPay - Payment Gateway Refactoring</h1>
+<h3 align="center">🎯 FiadoPay - Payment Gateway Refactoring</h3>
 Clean architecture implementation with SOLID principles, design patterns (Strategy, Observer, Factory), async processing, fraud validation via reflection, and webhooks integration.
 **Stack:** Java, Spring Boot, PostgreSQL, Design Patterns, Async Processing
 
-### 🔍 Radar Editais - AI-Powered Research Analysis
+<h3 align="center">🔍 Radar Editais - AI-Powered Research Analysis</h3>
 System for collecting, structuring, and making research grants available using web scraping, OCR, and AI. RESTful API architecture for external integration.
 **Stack:** Python, Web Scraping, OCR, AI, REST API, JSON
 
-### 🛡️ Aegis Cyber School - Cybersecurity Education Platform
+<h3 align="center">🛡️ Aegis Cyber School - Cybersecurity Education Platform</h3>
 Educational frontend platform focused on cybersecurity, with architecture prepared for future evolution (APIs, authentication, progress tracking).
 **Stack:** React, JavaScript, Component Architecture
 
-### 📄 Open Source Security Audit - Kamu Project
+<h3 align="center">📄 Open Source Security Audit - Kamu Project</h3>
 Implementation of complete defensive plan (inventory, scanning, policies, monitoring) in Brazilian open-source project, reducing critical vulnerabilities by 100% in 3 months.
 **Stack:** Dependabot, Snyk, Trivy, OWASP, DevSecOps
 **Article:** [LINK_PARA_ARTIGO_LINKEDIN]
