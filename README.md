@@ -179,22 +179,21 @@ Developed AI-powered legal assistant for justice access and conflict desjudicial
   📊 𝗚𝗶𝘁𝗛𝘂𝗯 𝗦𝘁𝗮𝘁𝘀
 </h1>
 
-<div align="left">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=RafaTheMonk&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=RafaTheMonk&theme=tokyonight&hide_border=true" />
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RafaTheMonk&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=RafaTheMonk&theme=tokyonight&hide_border=true" />
 </div>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaTheMonk&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaTheMonk&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 </div>
 
 <hr />
 
 <!--Contribution Graph--> 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RafaTheMonk&theme=tokyo-night&hide_border=true" />
-</p>
-
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RafaTheMonk&theme=tokyo-night&hide_border=true&area=true" />
+</div>
 <hr />
 
 <!--Footer-->
