@@ -84,7 +84,7 @@
   Featured Projects
 </h1>
 
-<div align="center">
+<div align="left">
 
 ### 🎯 FiadoPay - Payment Gateway Refactoring
 Clean architecture implementation with SOLID principles, design patterns (Strategy, Observer, Factory), async processing, fraud validation via reflection, and webhooks integration.
