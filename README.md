@@ -85,7 +85,7 @@
 
 <div align="left">
 
-### 🎯 FiadoPay - Payment Gateway Refactoring
+<h1 align="center">🎯 FiadoPay - Payment Gateway Refactoring</h1>
 Clean architecture implementation with SOLID principles, design patterns (Strategy, Observer, Factory), async processing, fraud validation via reflection, and webhooks integration.
 **Stack:** Java, Spring Boot, PostgreSQL, Design Patterns, Async Processing
 
