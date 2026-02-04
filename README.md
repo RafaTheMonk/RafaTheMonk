@@ -180,7 +180,6 @@ Developed AI-powered legal assistant for justice access and conflict desjudicial
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=RafaTheMonk&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://streak-stats.demolab.com?user=RafaTheMonk&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/>
 </div>
 
 <div align="center">
