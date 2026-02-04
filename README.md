@@ -35,7 +35,6 @@
 </h1>
 
 <div align="left">
-
 <h3>🏆 Justina AI – AI-Powered Legal Assistant (Oct 2024 – Present)</h3>
 
 **Winner Project - Hackathon+ TJBA**
