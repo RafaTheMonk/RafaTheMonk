@@ -6,7 +6,7 @@
 <!--Header Name-->
 # Hᴇʟʟᴏ I'ᴍ Rᴀғᴀᴇʟ Bʀɪᴛᴏ
 *Full Stack Software Engineer (Backend & AI)*
-<br /> 
+
 
 <!--Start Intro-->               
 <p align="left">Full Stack Software Engineer with hands-on experience building scalable web applications using Java, Spring Boot, Node.js, React, and AI integrations. Proven ability to deliver production-grade solutions, optimize processes, and work with complex systems. Experienced in backend development, REST APIs, automation, and AI-powered applications. Winner of the TJBA Hackathon+ with an AI solution for legal access.</p>
