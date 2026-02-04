@@ -2,7 +2,7 @@
 <img src="https://imgur.com/a/D492vCG" />
 
 <div>
-  <img align="right" width="35%" src="https://i.imgur.com/BHms8a2.png">
+  <img align="right" width="35%" src="https://imgur.com/a/D492vCG">
 </div>
 
 <!--Header Name-->
