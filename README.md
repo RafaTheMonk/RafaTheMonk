@@ -165,7 +165,7 @@ Developed AI-powered legal assistant for justice access and conflict desjudicial
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 
-<a href="[LINK_DO_SEU_PORTFOLIO]" target="_blank">
+<a href="https://rafathemonk-portfolio.vercel.app/" target="_blank">
 <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio" />
 </a>
 
@@ -176,11 +176,11 @@ Developed AI-powered legal assistant for justice access and conflict desjudicial
 <hr />
 
 <!--GitHub Stats-->
-<h1 align="left">
+<h1 align="center">
   📊 𝗚𝗶𝘁𝗛𝘂𝗯 𝗦𝘁𝗮𝘁𝘀
 </h1>
 
-<div align="center">
+<div align="left">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=RafaTheMonk&show_icons=true&theme=tokyonight&hide_border=true" />
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=RafaTheMonk&theme=tokyonight&hide_border=true" />
 </div>
