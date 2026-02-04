@@ -115,7 +115,7 @@ Implementation of complete defensive plan (inventory, scanning, policies, monito
   Learning Now
 </h1>
 
-<div align="center">
+<div align="left">
 
 - Software Engineering @ UCSAL (2024-2028) - OOP, Algorithms, Data Structures, Software Architecture, Databases
 - Java (Advanced), JavaScript/Node.js (Advanced), Python (Intermediate)
@@ -135,9 +135,9 @@ Implementation of complete defensive plan (inventory, scanning, policies, monito
   🏆 𝗔𝘄𝗮𝗿𝗱𝘀 & 𝗥𝗲𝗰𝗼𝗴𝗻𝗶𝘁𝗶𝗼𝗻
 </h1>
 
-<div align="center">
+<div align="left">
 
-### 🥉 3rd Place - Hackathon+ Tribunal de Justiça da Bahia (Oct 2024)
+### Winner - Hackathon+ Tribunal de Justiça da Bahia (Oct 2024)
 Developed AI-powered legal assistant for justice access and conflict desjudicialization, evaluated by judging committee and awarded among the top three projects for innovation and social impact.
 
 </div>
