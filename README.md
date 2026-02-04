@@ -1,8 +1,8 @@
 <!-- HEADER -->
-<img src="https://drive.google.com/file/d/1f_YDD8SnPX1Yj34fuyklrV5Ef4B_SHtw/view?usp=sharing" />
+<img src="https://pin.it/1eYmVnpEY" />
 
 <div>
-  <img align="right" width="35%" src="https://drive.google.com/file/d/1f_YDD8SnPX1Yj34fuyklrV5Ef4B_SHtw/view?usp=sharing">
+  <img align="right" width="35%" src="https://pin.it/1eYmVnpEY">
 </div>
 
 <!--Header Name-->
