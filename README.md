@@ -1,10 +1,10 @@
 <!-- HEADER -->
 <div>
-  <img align="right" width="30%" src="https://i.pinimg.com/736x/e0/ca/e3/e0cae3c0bc907bd553770705dbb60d42.jpg">
+  <img align="right" width="35%" src="https://i.pinimg.com/736x/e0/ca/e3/e0cae3c0bc907bd553770705dbb60d42.jpg">
 </div>
 
 <!--Header Name-->
-# <img src="https://i.imgur.com/wKdltZr.png" width="28"/> Hᴇʟʟᴏ I'ᴍ Rᴀғᴀᴇʟ Bʀɪᴛᴏ
+# Hᴇʟʟᴏ I'ᴍ Rᴀғᴀᴇʟ Bʀɪᴛᴏ
 *Full Stack Software Engineer (Backend & AI)*
 <br /> 
 
