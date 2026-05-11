@@ -14,8 +14,10 @@
 - 🌐 Building scalable, clean, and meaningful solutions
 
 <br clear="both"/>
----
+
 <h1 align="center"><img src="https://i.imgur.com/eu3StDB.gif" width="28"/> 𝗧𝗲𝗰𝗵 𝗦𝘁𝗮𝗰𝗸</h1>
+
+<br clear="both"/>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,spring,nodejs,react,express,postgresql,mongodb,mysql" />
