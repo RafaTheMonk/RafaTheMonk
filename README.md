@@ -24,63 +24,7 @@
 
 ---
 
-<h1 align="center"><!-- HEADER -->
-<div>
-  <img align="right" width="35%" src="https://i.pinimg.com/736x/e0/ca/e3/e0cae3c0bc907bd553770705dbb60d42.jpg">
-</div>
-
-# Hᴇʟʟᴏ I'ᴍ Rᴀғᴀᴇʟ Bʀɪᴛᴏ
-*Full Stack Software Engineer · AI Integrations*
-
-<p align="left">Full Stack Developer with hands-on experience building web applications using Java, Spring Boot, Node.js, React, and AI integrations. Focused on backend development, REST APIs, and AI-powered applications. Two-time hackathon winner — Justina AI (TJBA Hackathon+) and MASA (HSU2K25) — both projects with real-world social impact.</p>
-
-- 🎓 Software Engineering student at UCSAL (2024–2028) | Technician in Systems Development – SENAI
-- 💼 Currently working with Node.js, React, AI integrations, and full-stack development at REA_L Innovation
-- 🏆 Winner – Hackathon+ Tribunal de Justiça da Bahia (Justina AI) | Winner – HSU2K25 (MASA)
-- 📖 Currently reading: Clean Architecture (Robert C. Martin) · Web Application Security (Andrew Hoffman)
-- 🌐 Building scalable, clean, and meaningful solutions
-
----
-
-<h1 align="center"><img src="https://i.imgur.com/eu3StDB.gif" width="28"/> 𝗧𝗲𝗰𝗵 𝗦𝘁𝗮𝗰𝗸</h1>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,nodejs,react,express,postgresql,mongodb,mysql" />
-</p>
-
----
-
 <h1 align="center">
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"/>
-  Experience
-</h1>
-
-<h3>💼 REA_L Innovation – Full Stack Developer (Remote) (Jan 2026 – Present)</h3>
-
-- Full-stack web platform with Node.js (backend) + React.js (frontend) for document analysis
-- Google Gemini AI integration for semantic analysis and NLP pipeline for automated categorization
-- RESTful API (Express.js + MongoDB) with componentized React interface and custom hooks
-- Deployed on serverless architecture with CI/CD pipeline and automated web scraping
-- **Stack:** Node.js · Express.js · React · MongoDB · Google Gemini AI · NLP · Serverless
-
-<hr />
-
-<h3>🏆 Justina AI – AI-Powered Legal Assistant (Oct 2025 – Present)</h3>
-
-**Winner – Hackathon+ TJBA · In institutional adoption process**
-
-- Intelligent legal assistant via WhatsApp for pre-procedural guidance and conflict resolution
-- Architecture: n8n (orchestration), Google Gemini 2.5 Pro (LLM), WAHA API (WhatsApp), PostgreSQL
-- 24/7 system with conversational memory, multimodal processing, and automated routing (PROCON, CEJUSC)
-- **Stack:** Node.js · n8n · Google Gemini AI · PostgreSQL · WhatsApp API · NLP
-
-<hr />
-
-<h3>📊 Cassi Turismo – Technical Support (Commercial) (Dec 2023 – Oct 2025)</h3>
-
-- Technical support for resellers, voucher management, and operational process automation
-- Implemented Kanban (Trello), reducing resolution time by ~25%
-
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"/>
   Experience
 </h1>
