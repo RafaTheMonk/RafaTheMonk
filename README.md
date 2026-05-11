@@ -14,8 +14,6 @@
 - 📖 Currently reading: Clean Architecture (Robert C. Martin) · Web Application Security (Andrew Hoffman)
 - 🌐 Building scalable, clean, and meaningful solutions
 
----
-
 <h1 align="center"><img src="https://i.imgur.com/eu3StDB.gif" width="28"/> 𝗧𝗲𝗰𝗵 𝗦𝘁𝗮𝗰𝗸</h1>
 
 <p align="center">
