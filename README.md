@@ -4,6 +4,32 @@
 </div>
 
 # Hᴇʟʟᴏ I'ᴍ Rᴀғᴀᴇʟ Bʀɪᴛᴏ
+*Full Stack Software Engineer · AI Integrations · Infrastructure*
+
+<p align="left">Full Stack Developer with hands-on experience building web applications using Java, Spring Boot, Node.js, React, and AI integrations. Focused on backend development, REST APIs, AI-powered applications, and infrastructure. Two-time hackathon winner — Justina AI (TJBA Hackathon+) and MASA (HSU2K25) — both with real-world social impact.</p>
+
+- 🎓 Software Engineering student at UCSAL (2024–2028) | Technician in Systems Development – SENAI
+- 💼 Currently: AI Engineering Intern at TCU/NIA · Infrastructure Analyst at Cassi Turismo · Full Stack Dev at REA_L Innovation
+- 🏆 Winner – Hackathon+ Tribunal de Justiça da Bahia (Justina AI) | Winner – HSU2K25 (MASA)
+- 📖 Currently reading: Clean Architecture (Robert C. Martin) · Web Application Security (Andrew Hoffman)
+- 🌐 Building scalable, clean, and meaningful solutions
+
+---
+
+<h1 align="center"><img src="https://i.imgur.com/eu3StDB.gif" width="28"/> 𝗧𝗲𝗰𝗵 𝗦𝘁𝗮𝗰𝗸</h1>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,nodejs,react,express,postgresql,mongodb,mysql" />
+</p>
+
+---
+
+<h1 align="center"><!-- HEADER -->
+<div>
+  <img align="right" width="35%" src="https://i.pinimg.com/736x/e0/ca/e3/e0cae3c0bc907bd553770705dbb60d42.jpg">
+</div>
+
+# Hᴇʟʟᴏ I'ᴍ Rᴀғᴀᴇʟ Bʀɪᴛᴏ
 *Full Stack Software Engineer · AI Integrations*
 
 <p align="left">Full Stack Developer with hands-on experience building web applications using Java, Spring Boot, Node.js, React, and AI integrations. Focused on backend development, REST APIs, and AI-powered applications. Two-time hackathon winner — Justina AI (TJBA Hackathon+) and MASA (HSU2K25) — both projects with real-world social impact.</p>
@@ -54,8 +80,49 @@
 
 - Technical support for resellers, voucher management, and operational process automation
 - Implemented Kanban (Trello), reducing resolution time by ~25%
+
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"/>
+  Experience
+</h1>
+
+<h3>🏛️ TCU / NIA – AI Software Engineering Intern (May 2026 – Present)</h3>
+
+**Núcleo de Inteligência Artificial — Tribunal de Contas da União · Remote**
+
+- Working on the Intelligent Software Factory pilot — exploring AI agents as operational developers
+- Building real software using Claude Code, AI agent orchestration, MCP, and automated pipelines
+- Documenting and systematizing LLM-driven development methodologies for TCU's IT department
+- **Stack:** Claude Code · AI Agents · MCP · Python · LLM Orchestration · Pipeline Automation
+
+<hr />
+
+<h3>💼 REA_L Innovation – Full Stack Developer (Remote) (Jan 2026 – Present)</h3>
+
+- Full-stack web platform with Node.js (backend) + React.js (frontend) for document analysis
+- Google Gemini AI integration for semantic analysis and NLP pipeline for automated categorization
+- RESTful API (Express.js + MongoDB) with componentized React interface and custom hooks
+- Deployed on serverless architecture with CI/CD pipeline and automated web scraping
+- **Stack:** Node.js · Express.js · React · MongoDB · Google Gemini AI · NLP · Serverless
+
+<hr />
+
+<h3>🏆 Justina AI – AI-Powered Legal Assistant (Oct 2025 – Present)</h3>
+
+**Winner – Hackathon+ TJBA · In institutional adoption process**
+
+- Intelligent legal assistant via WhatsApp for pre-procedural guidance and conflict resolution
+- Architecture: n8n (orchestration), Google Gemini 2.5 Pro (LLM), WAHA API (WhatsApp), PostgreSQL
+- 24/7 system with conversational memory, multimodal processing, and automated routing (PROCON, CEJUSC)
+- **Stack:** Node.js · n8n · Google Gemini AI · PostgreSQL · WhatsApp API · NLP
+
+<hr />
+
+<h3>🖥️ Cassi Turismo – Infrastructure Analyst (Dec 2023 – Present)</h3>
+
+- Server, network, firewall, VPN, and proxy administration and maintenance
+- Process automation reducing operational resolution time by ~25%
 - Database reorganization, increasing active base by ~35% and reducing inconsistencies by 30%
-- **Stack:** Scrum/Kanban · Trello · Google Sheets · Process Automation
+- **Stack:** Linux · Networking · Firewall · VPN · MySQL · Google Sheets · Process Automation
 
 <hr />
 
@@ -74,27 +141,27 @@
 
 <h3 align="center">🍽️ MASA – Smart Food Access Platform</h3>
 
-AI-powered solution to help low-income families and children find nutritious meals with the best cost-benefit ratio. Winner of HSU2K25 hackathon, recognized for its social impact in food security.  
+AI-powered solution to help low-income families and children find nutritious meals with the best cost-benefit ratio. Winner of HSU2K25, recognized for social impact in food security.
 **Stack:** AI · React · Node.js · Data Analysis
 
+<h3 align="center">🎯 FiadoPay – Payment Gateway Refactoring</h3>
 
-
-Clean architecture with SOLID principles, design patterns (Strategy, Observer, Factory), async processing, fraud validation via reflection, and webhooks integration.  
+Clean architecture with SOLID principles, design patterns (Strategy, Observer, Factory), async processing, fraud validation via reflection, and webhooks integration.
 **Stack:** Java · Spring Boot · PostgreSQL · Design Patterns
 
 <h3 align="center">🔍 Radar Editais – AI-Powered Research Analysis</h3>
 
-System for collecting and structuring research grants using web scraping, OCR, and AI. RESTful API for external integration.  
+System for collecting and structuring research grants using web scraping, OCR, and AI. RESTful API for external integration.
 **Stack:** Python · Web Scraping · OCR · AI · REST API
 
 <h3 align="center">🛡️ Aegis Cyber School – Cybersecurity Education Platform</h3>
 
-Educational frontend platform focused on cybersecurity with component architecture designed for future evolution (APIs, authentication, progress tracking).  
+Educational frontend platform focused on cybersecurity with component architecture designed for future evolution (APIs, authentication, progress tracking).
 **Stack:** React · JavaScript · Component Architecture
 
 <h3 align="center">📄 Open Source Security Audit – Kamu Project</h3>
 
-Complete defensive plan implementation (inventory, scanning, policies, monitoring) in a Brazilian open-source project, reducing critical vulnerabilities by 100% in 3 months.  
+Complete defensive plan implementation (inventory, scanning, policies, monitoring) in a Brazilian open-source project, reducing critical vulnerabilities by 100% in 3 months.
 **Stack:** Dependabot · Snyk · Trivy · OWASP · DevSecOps
 
 ---
