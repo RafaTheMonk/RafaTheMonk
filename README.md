@@ -1,4 +1,3 @@
-<!-- HEADER -->
 <div>
   <img align="right" width="35%" src="https://i.pinimg.com/736x/e0/ca/e3/e0cae3c0bc907bd553770705dbb60d42.jpg">
 </div>
@@ -9,18 +8,20 @@
 <p align="left">Full Stack Developer with hands-on experience building web applications using Java, Spring Boot, Node.js, React, and AI integrations. Focused on backend development, REST APIs, AI-powered applications, and infrastructure. Two-time hackathon winner — Justina AI (TJBA Hackathon+) and MASA (HSU2K25) — both with real-world social impact.</p>
 
 - 🎓 Software Engineering student at UCSAL (2024–2028) | Technician in Systems Development – SENAI
-- 💼 Currently: AI Engineering Intern at TCU/NIA · Infrastructure Analyst at Cassi Turismo · Full Stack Dev at REA_L Innovation
+- 💼 Currently: AI Engineering Intern at TCU/NIA · Infrastructure Analyst at Cassi Turismo
 - 🏆 Winner – Hackathon+ Tribunal de Justiça da Bahia (Justina AI) | Winner – HSU2K25 (MASA)
 - 📖 Currently reading: Clean Architecture (Robert C. Martin) · Web Application Security (Andrew Hoffman)
 - 🌐 Building scalable, clean, and meaningful solutions
 
+<br clear="both"/>
+---
 <h1 align="center"><img src="https://i.imgur.com/eu3StDB.gif" width="28"/> 𝗧𝗲𝗰𝗵 𝗦𝘁𝗮𝗰𝗸</h1>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,spring,nodejs,react,express,postgresql,mongodb,mysql" />
 </p>
 
----
+<br/>
 
 <h1 align="center">
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"/>
@@ -36,17 +37,13 @@
 - Documenting and systematizing LLM-driven development methodologies for TCU's IT department
 - **Stack:** Claude Code · AI Agents · MCP · Python · LLM Orchestration · Pipeline Automation
 
-<hr />
-
-<h3>💼 REA_L Innovation – Full Stack Developer (Remote) (Jan 2026 – Present)</h3>
+<h3>💼 REA_L Innovation – Full Stack Developer (Remote) (Jan 2026 – May 2026)</h3>
 
 - Full-stack web platform with Node.js (backend) + React.js (frontend) for document analysis
 - Google Gemini AI integration for semantic analysis and NLP pipeline for automated categorization
 - RESTful API (Express.js + MongoDB) with componentized React interface and custom hooks
 - Deployed on serverless architecture with CI/CD pipeline and automated web scraping
 - **Stack:** Node.js · Express.js · React · MongoDB · Google Gemini AI · NLP · Serverless
-
-<hr />
 
 <h3>🏆 Justina AI – AI-Powered Legal Assistant (Oct 2025 – Present)</h3>
 
@@ -57,8 +54,6 @@
 - 24/7 system with conversational memory, multimodal processing, and automated routing (PROCON, CEJUSC)
 - **Stack:** Node.js · n8n · Google Gemini AI · PostgreSQL · WhatsApp API · NLP
 
-<hr />
-
 <h3>🖥️ Cassi Turismo – Infrastructure Analyst (Dec 2023 – Present)</h3>
 
 - Server, network, firewall, VPN, and proxy administration and maintenance
@@ -66,15 +61,7 @@
 - Database reorganization, increasing active base by ~35% and reducing inconsistencies by 30%
 - **Stack:** Linux · Networking · Firewall · VPN · MySQL · Google Sheets · Process Automation
 
-<hr />
-
-<h3>🔧 Perfil Instalações e Tecnologia – IT Support (Feb 2023 – Dec 2023)</h3>
-
-- Supported procurement processes, database implementation, and document management
-- Reduced information search time by 40% through data infrastructure reorganization
-- **Stack:** MySQL · Microsoft Office · Google Drive
-
----
+<br/>
 
 <h1 align="center">
   <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"/>
@@ -106,7 +93,7 @@ Educational frontend platform focused on cybersecurity with component architectu
 Complete defensive plan implementation (inventory, scanning, policies, monitoring) in a Brazilian open-source project, reducing critical vulnerabilities by 100% in 3 months.
 **Stack:** Dependabot · Snyk · Trivy · OWASP · DevSecOps
 
----
+<br/>
 
 <h1 align="center">
   <img src="https://i.imgur.com/pNb3ASH.gif" width="40"/>
@@ -117,14 +104,14 @@ Complete defensive plan implementation (inventory, scanning, policies, monitorin
 - **Certifications:** Fortinet Cybersecurity · Docker & Kubernetes · Java/SQL (HackerRank)
 - **Languages:** Java (Advanced) · JavaScript/Node.js (Advanced) · Python (Intermediate)
 
----
+<br/>
 
 <h1 align="center">🏆 𝗔𝘄𝗮𝗿𝗱𝘀</h1>
 
 - **Winner – HSU2K25 (2025):** MASA — AI-powered platform helping low-income families and children find nutritious meals with the best cost-benefit ratio, recognized for social impact in food security
 - **Winner – Hackathon+ TJBA (Oct 2025):** Justina AI — intelligent legal assistant for justice access and conflict desjudicialization, awarded for innovation and social impact · Currently in institutional adoption by TJBA
 
----
+<br/>
 
 <h1 align="center">
   <img src="https://i.imgur.com/2yNxI5F.gif" width="32"/>
@@ -151,7 +138,7 @@ Complete defensive plan implementation (inventory, scanning, policies, monitorin
 
 </div>
 
----
+<br/>
 
 <h1 align="center">📊 𝗚𝗶𝘁𝗛𝘂𝗯 𝗦𝘁𝗮𝘁𝘀</h1>
 
@@ -164,7 +151,7 @@ Complete defensive plan implementation (inventory, scanning, policies, monitorin
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=RafaTheMonk&theme=tokyo-night&hide_border=true&area=true" />
 </div>
 
----
+<br/>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=RafaTheMonk&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
