@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 320" width="520" height="320" role="img" aria-label="Animated skill bars">
+  <defs>
+    <style type="text/css"><![CDATA[
+      .mono { font-family: 'JetBrains Mono','Fira Code',ui-monospace,monospace; font-size: 15px; }
+      .bar { transform-box: view-box; transform-origin: 150px 0; animation: grow 1.2s cubic-bezier(.2,.8,.2,1) forwards; transform: scaleX(0); }
+      @keyframes grow { to { transform: scaleX(1); } }
+      .b1{animation-delay:.2s}.b2{animation-delay:.45s}.b3{animation-delay:.7s}.b4{animation-delay:.95s}.b5{animation-delay:1.2s}.b6{animation-delay:1.45s}
+      .pct { opacity: 0; animation: fade .4s ease forwards; }
+      @keyframes fade { to { opacity: 1; } }
+    ]]></style>
+  </defs>
+
+  <rect x="4" y="4" width="512" height="312" rx="12" fill="#0d1117" stroke="#30363d" stroke-width="1.5"/>
+  <text x="24" y="34" class="mono" font-weight="700" font-size="16" fill="#c9d1d9">~/skills</text>
+
+  <text x="24" y="74"  class="mono" fill="#c9d1d9">Java</text>
+  <rect x="150" y="62" width="290" height="14" rx="7" fill="#21262d"/>
+  <rect x="150" y="62" width="261" height="14" rx="7" fill="#f89820" class="bar b1"/>
+  <text x="452" y="74"  class="mono pct" style="animation-delay:1.2s" fill="#f89820">90%</text>
+
+  <text x="24" y="114" class="mono" fill="#c9d1d9">Node.js</text>
+  <rect x="150" y="102" width="290" height="14" rx="7" fill="#21262d"/>
+  <rect x="150" y="102" width="247" height="14" rx="7" fill="#3c873a" class="bar b2"/>
+  <text x="452" y="114" class="mono pct" style="animation-delay:1.45s" fill="#4ac34a">85%</text>
+
+  <text x="24" y="154" class="mono" fill="#c9d1d9">Python</text>
+  <rect x="150" y="142" width="290" height="14" rx="7" fill="#21262d"/>
+  <rect x="150" y="142" width="209" height="14" rx="7" fill="#3776ab" class="bar b3"/>
+  <text x="452" y="154" class="mono pct" style="animation-delay:1.7s" fill="#5a9bd4">72%</text>
+
+  <text x="24" y="194" class="mono" fill="#c9d1d9">Spring</text>
+  <rect x="150" y="182" width="290" height="14" rx="7" fill="#21262d"/>
+  <rect x="150" y="182" width="232" height="14" rx="7" fill="#6db33f" class="bar b4"/>
+  <text x="452" y="194" class="mono pct" style="animation-delay:1.95s" fill="#6db33f">80%</text>
+
+  <text x="24" y="234" class="mono" fill="#c9d1d9">React</text>
+  <rect x="150" y="222" width="290" height="14" rx="7" fill="#21262d"/>
+  <rect x="150" y="222" width="226" height="14" rx="7" fill="#61dafb" class="bar b5"/>
+  <text x="452" y="234" class="mono pct" style="animation-delay:2.2s" fill="#61dafb">78%</text>
+
+  <text x="24" y="274" class="mono" fill="#c9d1d9">Infra/Sec</text>
+  <rect x="150" y="262" width="290" height="14" rx="7" fill="#21262d"/>
+  <rect x="150" y="262" width="244" height="14" rx="7" fill="#ff5f56" class="bar b6"/>
+  <text x="452" y="274" class="mono pct" style="animation-delay:2.45s" fill="#ff5f56">84%</text>
+</svg>
