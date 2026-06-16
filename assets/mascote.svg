@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 360" width="360" height="360" role="img" aria-label="Zen coding monk mascot">
+  <defs>
+    <style type="text/css"><![CDATA[
+      .mono { font-family: 'JetBrains Mono','Fira Code',ui-monospace,monospace; font-weight: 700; }
+      .bob { animation: bob 4s ease-in-out infinite alternate; transform-box: view-box; transform-origin: 180px 200px; }
+      @keyframes bob { from { transform: translateY(0); } to { transform: translateY(-8px); } }
+      .halo { animation: pulse 3s ease-in-out infinite alternate; transform-box: view-box; transform-origin: 180px 150px; }
+      @keyframes pulse { from { opacity: .45; transform: scale(1); } to { opacity: 1; transform: scale(1.06); } }
+      .eye { transform-box: fill-box; transform-origin: center; animation: blink 5s infinite; }
+      @keyframes blink { 0%,92%,100% { transform: scaleY(1); } 95% { transform: scaleY(.1); } }
+      .g1 { animation: floaty 4.5s ease-in-out infinite; }
+      .g2 { animation: floaty 4.5s ease-in-out .9s infinite; }
+      .g3 { animation: floaty 4.5s ease-in-out 1.8s infinite; }
+      @keyframes floaty { 0% { opacity: 0; transform: translateY(6px); } 30% { opacity: 1; } 100% { opacity: 0; transform: translateY(-18px); } }
+    ]]></style>
+  </defs>
+
+  <circle class="halo" cx="180" cy="150" r="70" fill="none" stroke="#ffd24a" stroke-width="3"/>
+
+  <g class="bob">
+    <path d="M116,326 Q118,250 150,224 L210,224 Q242,250 244,326 Z" fill="#2b3a8f"/>
+    <line x1="180" y1="228" x2="180" y2="322" stroke="#22307a" stroke-width="3"/>
+    <ellipse cx="180" cy="252" rx="23" ry="13" fill="#f4cfa1"/>
+    <ellipse cx="180" cy="252" rx="23" ry="13" fill="none" stroke="#d9a978" stroke-width="1.5"/>
+
+    <circle cx="180" cy="150" r="58" fill="#2b3a8f"/>
+    <circle cx="180" cy="159" r="44" fill="#f4cfa1"/>
+    <circle cx="180" cy="139" r="3.5" fill="#ffd24a"/>
+
+    <ellipse class="eye" cx="167" cy="158" rx="4.5" ry="6" fill="#20232a"/>
+    <ellipse class="eye" cx="193" cy="158" rx="4.5" ry="6" fill="#20232a"/>
+    <path d="M169,177 Q180,185 191,177" fill="none" stroke="#b06a3a" stroke-width="2.4" stroke-linecap="round"/>
+  </g>
+
+  <text class="mono g1" x="250" y="120" font-size="20" fill="#26d0ce">&lt;/&gt;</text>
+  <text class="mono g2" x="92" y="150" font-size="20" fill="#00FF9C">{ }</text>
+  <text class="mono g3" x="256" y="214" font-size="22" fill="#ffd24a">λ</text>
+</svg>
