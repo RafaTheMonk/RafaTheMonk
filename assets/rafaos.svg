@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 360" width="720" height="360" role="img" aria-label="RafaOS boot sequence">
+  <defs>
+    <style type="text/css"><![CDATA[
+      .mono { font-family: 'JetBrains Mono','Fira Code',ui-monospace,'Courier New',monospace; font-size: 17px; }
+      .ok { fill: #27c93f; } .warn { fill: #ffbd2e; } .w { fill: #c9d1d9; } .dim { fill: #6e7681; } .g { fill: #00FF9C; }
+      .line { opacity: 0; animation: appear .3s ease forwards; }
+      .l1{animation-delay:.4s} .l2{animation-delay:1s} .l3{animation-delay:1.6s} .l4{animation-delay:2.2s} .l5{animation-delay:2.8s} .l6{animation-delay:3.6s}
+      @keyframes appear { to { opacity: 1; } }
+      .bar { transform-box: view-box; transform-origin: 28px 330px; animation: grow 4.2s ease forwards; }
+      @keyframes grow { from { transform: scaleX(0); } to { transform: scaleX(1); } }
+      .pct { opacity: 0; animation: appear .3s ease 4.1s forwards; }
+    ]]></style>
+  </defs>
+
+  <rect x="8" y="8" width="704" height="344" rx="12" fill="#0d1117" stroke="#30363d" stroke-width="1.5"/>
+
+  <text x="28" y="48" class="mono"><tspan class="g" font-weight="700" font-size="20">RafaOS</tspan><tspan class="dim" font-size="20"> v1.0</tspan><tspan class="dim">  ::  booting...</tspan></text>
+
+  <g class="mono">
+    <text x="28" y="96"  class="line l1"><tspan class="ok">[  OK  ]</tspan><tspan class="w"> mount /skills</tspan></text>
+    <text x="28" y="130" class="line l2"><tspan class="ok">[  OK  ]</tspan><tspan class="w"> load java · spring · node · react</tspan></text>
+    <text x="28" y="164" class="line l3"><tspan class="ok">[  OK  ]</tspan><tspan class="w"> start ai-agents.service</tspan></text>
+    <text x="28" y="198" class="line l4"><tspan class="ok">[  OK  ]</tspan><tspan class="w"> connect infra · linux · vpn</tspan></text>
+    <text x="28" y="232" class="line l5"><tspan class="warn">[ WARN ]</tspan><tspan class="dim"> coffee.service running low</tspan></text>
+    <text x="28" y="266" class="line l6"><tspan class="ok">[  OK  ]</tspan><tspan class="g"> system ready. welcome, visitor.</tspan></text>
+  </g>
+
+  <rect x="28" y="324" width="600" height="10" rx="5" fill="#21262d"/>
+  <rect class="bar" x="28" y="324" width="600" height="10" rx="5" fill="#27c93f"/>
+  <text x="648" y="333" class="mono pct" font-size="14" fill="#27c93f">100%</text>
+</svg>
