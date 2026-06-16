@@ -1,12 +1,14 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a2980,100:26d0ce&height=200&section=header&text=Rafael%20Brito&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full%20Stack%20Engineer%20%7C%20AI%20Integrations%20%7C%20Infrastructure&descAlignY=58&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:7aa2f7&height=200&section=header&text=Rafael%20Brito&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full%20Stack%20%7C%20AI%20%7C%20Infrastructure&descAlignY=58&descSize=18" width="100%" />
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=26D0CE&center=true&vCenter=true&width=600&lines=Full+Stack+Software+Engineer;AI+Integrations+%26+Agents;Infrastructure+%26+DevSecOps;2x+Hackathon+Winner+%F0%9F%8F%86" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=7DCFFF&center=true&vCenter=true&width=600&lines=Full+Stack+Software+Engineer;AI+Integrations+%26+Agents;Infrastructure+%26+DevSecOps;2x+Hackathon+Winner+%F0%9F%8F%86" />
 </div>
 
 <br/>
 
-> Software Engineering @ UCSAL · Two-time hackathon winner building real-world, social-impact software with **Java, Spring Boot, Node.js, React, and AI**.
+<img align="right" width="280" src="https://raw.githubusercontent.com/RafaTheMonk/RafaTheMonk/main/assets/mascote-tokyonight.svg" alt="zen coding monk" />
+
+> Software Engineering @ UCSAL · two-time hackathon winner building real-world, social-impact software with **Java, Spring Boot, Node.js, React, and AI**.
 
 - 🏛️ **AI Software Engineering Intern @ TCU/NIA**, building production software with AI agents
 - 🖥️ **Infrastructure Analyst @ Cassi Turismo**, servers, networking, automation
@@ -14,12 +16,16 @@
 - 🏆 **2x Hackathon Winner**, Justina AI (TJBA) · MASA (HSU2K25)
 - 📖 Reading *Clean Architecture* & *Web Application Security*
 
-<br/>
+<br clear="both"/>
 
 ## 🧰 Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,nodejs,express,react,python,postgresql,mongodb,mysql,linux,docker,git" />
+  <img width="520" src="https://raw.githubusercontent.com/RafaTheMonk/RafaTheMonk/main/assets/skills-tokyonight.svg" alt="skill bars" />
+</div>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,nodejs,express,react,python,postgresql,mongodb,mysql,linux,docker,git&theme=dark" />
 </div>
 
 <br/>
@@ -72,7 +78,8 @@ Server, network, firewall, VPN, and proxy administration. Automation reducing re
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rafaelbritovaladares@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-brito-ba3021b4)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://rafathemonk-portfolio.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RafaTheMonk)
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:26d0ce,100:1a2980&height=120&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,100:1a1b27&height=120&section=footer" width="100%" />
