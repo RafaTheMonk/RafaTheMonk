@@ -57,13 +57,11 @@ Server, network, firewall, VPN, and proxy administration. Automation reducing re
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=RafaTheMonk&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight" />
+  
   <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=RafaTheMonk&theme=tokyonight&hide_border=true" />
 </div>
 
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaTheMonk&layout=compact&langs_count=8&hide_border=true&theme=tokyonight" />
-</div>
+
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=RafaTheMonk&theme=tokyo-night&hide_border=true&area=true" />
